@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/My project (2).iml" filepath="$PROJECT_DIR$/.idea/My project (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.1.1/Runtime/Runtime.iml" filepath="$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.1.1/Runtime/Runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.1.1/Tests/Tests.iml" filepath="$PROJECT_DIR$/Library/PackageCache/com.unity.mobile.notifications@2.1.1/Tests/Tests.iml" />
+    </modules>
+  </component>
+</project>
